@@ -1,0 +1,97 @@
+#EXTM3U
+#EXTINF:-1, Sci-Fi
+#EXTGRP:Кино
+http://92.242.110.52:9835/udp/238.1.8.18:1234
+#EXTINF:-1, Fox
+#EXTGRP:Кино
+http://stream01.vnet.am/Fox/mono.m3u8
+#EXTINF:-1, Fox Life
+#EXTGRP:Кино
+http://91.205.199.3:80/FoxLife/index.m3u8
+#EXTINF:-1, VIJU HISTORY
+#EXTGRP:Познавательные
+https://bkm.beetv.kz/btv/live/hls/000005528.m3u8
+#EXTINF:-1, H2
+#EXTGRP:Познавательные
+https://bkm.beetv.kz/btv/live/hls/000002722.m3u8
+#EXTINF:-1, Тайна
+#EXTGRP:Кино
+https://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac2.smil/playlist.m3u8
+#EXTINF:-1, НСТ
+#EXTGRP:Кино
+http://193.201.98.10:5000/c169
+#EXTINF:-1, ТВ-3
+#EXTGRP:Кино
+http://86.57.178.105:9951/tv3
+#EXTINF:-1, КиноУжас
+#EXTGRP:Кино
+http://193.201.98.10:5000/c43
+#EXTINF:-1, КиноМистика
+#EXTGRP:Кино
+https://autopilot.catcast.tv/content/40783/index.m3u8
+#EXTINF:-1, КиноДетектив
+#EXTGRP:Кино
+https://autopilot.catcast.tv/content/41327/index.m3u8
+#EXTINF:-1, Trash TV
+#EXTGRP:Кино
+https://bkm.beetv.kz/btv/live/hls/000005621.m3u8
+#EXTINF:-1, ТНТ4 International
+#EXTGRP:Развлекательные
+https://bkm.beetv.kz/btv/live/hls/000002926.m3u8
+#EXTINF:-1, ТНТ4
+#EXTGRP:Развлекательные
+http://91.205.199.3:80/tnt4/index.m3u8
+#EXTINF:-1, ТНТ
+#EXTGRP:Развлекательные
+http://92.242.110.52:9835/udp/238.1.1.26:1234
+#EXTINF:-1, Nicktoons
+#EXTGRP:Развлекательные
+https://bkm.beetv.kz/btv/live/hls/000004365.m3u8
+#EXTINF:-1, Black
+#EXTGRP:Кино
+http://91.205.199.3/black/tracks-v1a1/mono.m3u8
+#EXTINF:-1, viju+ Comedy
+#EXTGRP:Кино
+https://bkm.beetv.kz/btv/live/hls/000000870.m3u8
+#EXTINF:-1, viju+ Megahit
+#EXTGRP:Кино
+https://bkm.beetv.kz/btv/live/hls/000000869.m3u8
+#EXTINF:-1, viju+ Premiere
+#EXTGRP:Кино
+https://bkm.beetv.kz/btv/live/hls/000000868.m3u8
+#EXTINF:-1, viju+ Serial
+#EXTGRP:Кино
+https://bkm.beetv.kz/btv/live/hls/000004375.m3u8
+#EXTINF:-1, Дорама
+#EXTGRP:Кино
+https://bkm.beetv.kz/btv/live/hls/000003392.m3u8
+#EXTINF:-1, Иллюзион+
+#EXTGRP:Кино
+http://188.113.190.15/45/tracks-v1a1/index.m3u8
+#EXTINF:-1, Еврокино
+#EXTGRP:Кино
+https://bkm.beetv.kz/btv/live/hls/000000152.m3u8
+#EXTINF:-1, FlixSnip
+#EXTGRP:Кино
+https://bkm.beetv.kz/btv/live/hls/000004466.m3u8
+#EXTINF:-1, КиноБоевик KZ
+#EXTGRP:Кино
+https://bkm.beetv.kz/btv/live/hls/000008490.m3u8
+#EXTINF:-1, Cinema
+#EXTGRP:Кино
+http://193.201.98.10:5000/c172
+#EXTINF:-1, Видеокассета
+#EXTGRP:Кино
+https://playlist.nuum.ru/live/4968/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Ностальгия
+#EXTGRP:Познавательные
+http://193.201.98.10:5000/c54
+#EXTINF:-1, Вопросы и ответы
+#EXTGRP:Познавательные
+https://bkm.beetv.kz/btv/live/hls/000000195.m3u8
+#EXTINF:-1, РБК
+#EXTGRP:Познавательные
+https://bkm.beetv.kz/btv/live/hls/000000091.m3u8
+#EXTINF:-1, EuroNews
+#EXTGRP:Познавательные
+https://bkm.beetv.kz/btv/live/hls/000000025.m3u8
