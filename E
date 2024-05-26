@@ -59,12 +59,12 @@ http://91.205.199.3/black/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Red
 #EXTGRP:Кино
 http://188.113.190.15/22/tracks-v1a1/index.m3u8
-#EXTINF:-1, viju Comedy
+#EXTINF:-1, viju+ Comedy
 #EXTGRP:Кино
-http://188.113.190.15/203/index.m3u8
-#EXTINF:-1, viju Megahit
+http://188.113.190.15/203/tracks-v1a1/index.m3u8
+#EXTINF:-1, viju+ Megahit
 #EXTGRP:Кино
-http://188.113.190.15/202/index.m3u8
+http://188.113.190.15/202/tracks-v1a1/index.m3u8
 #EXTINF:-1, viju+ Premiere
 #EXTGRP:Кино
 http://188.113.190.15/201/tracks-v1a1/index.m3u8
@@ -73,10 +73,10 @@ http://188.113.190.15/201/tracks-v1a1/index.m3u8
 https://bkm.beetv.kz/btv/live/hls/000004375.m3u8
 #EXTINF:-1, viju TV1000
 #EXTGRP:Кино
-http://188.113.190.15/31/index.m3u8
+http://188.113.190.15/31/tracks-v1a1/index.m3u8
 #EXTINF:-1, viju TV1000 Action
 #EXTGRP:Кино
-http://188.113.190.15/30/index.m3u8
+http://188.113.190.15/30/tracks-v1a1/index.m3u8
 #EXTINF:-1, Дорама
 #EXTGRP:Кино
 http://188.113.190.15/233/tracks-v1a1/index.m3u8
