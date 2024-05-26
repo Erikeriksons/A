@@ -7,16 +7,19 @@ http://92.242.110.52:9835/udp/238.1.8.18:1234
 http://stream01.vnet.am/Fox/mono.m3u8
 #EXTINF:-1, Fox Life
 #EXTGRP:Кино
-http://91.205.199.3:80/FoxLife/index.m3u8
+http://91.205.199.3/FoxLife/tracks-v1a2/mono.m3u8
 #EXTINF:-1, VIJU HISTORY
 #EXTGRP:Познавательные
-https://bkm.beetv.kz/btv/live/hls/000005528.m3u8
+http://31.131.136.4:8001/play/e002
 #EXTINF:-1, H2
 #EXTGRP:Познавательные
 https://bkm.beetv.kz/btv/live/hls/000002722.m3u8
 #EXTINF:-1, Тайна
 #EXTGRP:Кино
 https://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac2.smil/playlist.m3u8
+#EXTINF:-1, FlixSnip
+#EXTGRP:Кино
+http://stream-msk-06.ott.tricolor.tv/dtv/id669_MSKSG-PVR-1--Flix_Snip/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MjIxOTAwODQ5MTc3NCIsImV4cCI6MTcxNzIwMTA0NSwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE2NTk2MjQ1LCJzZXNzaW9uX2lkIjoiZWZjMWE3YzU3ZTNjNWZhN2YyNjg3NGE1MTg4ZmY3MDkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.9dWi6dYKqMzknDEtdfbr9ix3H3YZ1j2WmjNp_YI72P0
 #EXTINF:-1, НСТ
 #EXTGRP:Кино
 http://193.201.98.10:5000/c169
@@ -32,6 +35,9 @@ https://autopilot.catcast.tv/content/40783/index.m3u8
 #EXTINF:-1, КиноДетектив
 #EXTGRP:Кино
 https://autopilot.catcast.tv/content/41327/index.m3u8
+#EXTINF:-1, Bolt
+#EXTGRP:Кино
+http://188.113.190.15/84/video.m3u8
 #EXTINF:-1, Trash TV
 #EXTGRP:Кино
 https://bkm.beetv.kz/btv/live/hls/000005621.m3u8
@@ -40,40 +46,49 @@ https://bkm.beetv.kz/btv/live/hls/000005621.m3u8
 https://bkm.beetv.kz/btv/live/hls/000002926.m3u8
 #EXTINF:-1, ТНТ4
 #EXTGRP:Развлекательные
-http://91.205.199.3:80/tnt4/index.m3u8
+http://188.113.190.15/184/tracks-v1a1/index.m3u8
 #EXTINF:-1, ТНТ
 #EXTGRP:Развлекательные
-http://92.242.110.52:9835/udp/238.1.1.26:1234
+http://188.113.190.15/19/tracks-v1a1/index.m3u8
 #EXTINF:-1, Nicktoons
 #EXTGRP:Развлекательные
 https://bkm.beetv.kz/btv/live/hls/000004365.m3u8
 #EXTINF:-1, Black
 #EXTGRP:Кино
 http://91.205.199.3/black/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Red
+#EXTGRP:Кино
+http://188.113.190.15/22/tracks-v1a1/index.m3u8
 #EXTINF:-1, viju+ Comedy
 #EXTGRP:Кино
-https://bkm.beetv.kz/btv/live/hls/000000870.m3u8
+http://188.113.190.15/203/tracks-v1a1/index.m3u8
 #EXTINF:-1, viju+ Megahit
 #EXTGRP:Кино
-https://bkm.beetv.kz/btv/live/hls/000000869.m3u8
+http://188.113.190.15/202/tracks-v1a1/index.m3u8
 #EXTINF:-1, viju+ Premiere
 #EXTGRP:Кино
-https://bkm.beetv.kz/btv/live/hls/000000868.m3u8
+http://188.113.190.15/201/tracks-v1a1/index.m3u8
 #EXTINF:-1, viju+ Serial
 #EXTGRP:Кино
 https://bkm.beetv.kz/btv/live/hls/000004375.m3u8
+#EXTINF:-1, viju+ TV1000
+#EXTGRP:Кино
+http://188.113.190.15/31/tracks-v1a1/index.m3u8
+#EXTINF:-1, viju+ TV1000 Action
+#EXTGRP:Кино
+http://188.113.190.15/30/tracks-v1a1/index.m3u8
 #EXTINF:-1, Дорама
 #EXTGRP:Кино
-https://bkm.beetv.kz/btv/live/hls/000003392.m3u8
+http://188.113.190.15/233/tracks-v1a1/index.m3u8
 #EXTINF:-1, Иллюзион+
 #EXTGRP:Кино
 http://188.113.190.15/45/tracks-v1a1/index.m3u8
 #EXTINF:-1, Еврокино
 #EXTGRP:Кино
-https://bkm.beetv.kz/btv/live/hls/000000152.m3u8
-#EXTINF:-1, FlixSnip
+http://109.239.208.82:80/eurokino/index.m3u8
+#EXTINF:-1, SHOT TV
 #EXTGRP:Кино
-https://bkm.beetv.kz/btv/live/hls/000004466.m3u8
+http://188.113.190.15/166/tracks-v1a1/index.m3u8
 #EXTINF:-1, КиноБоевик KZ
 #EXTGRP:Кино
 https://bkm.beetv.kz/btv/live/hls/000008490.m3u8
@@ -83,6 +98,9 @@ http://193.201.98.10:5000/c172
 #EXTINF:-1, Видеокассета
 #EXTGRP:Кино
 https://playlist.nuum.ru/live/4968/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Ретро
+#EXTGRP:Кино
+http://109.239.208.82/retro/index.m3u8
 #EXTINF:-1, Ностальгия
 #EXTGRP:Познавательные
 http://193.201.98.10:5000/c54
