@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Fox
-#EXTGRP:Кино
-http://stream01.vnet.am/Fox/mono.m3u8
-#EXTINF:-1, Fox Life
-#EXTGRP:Кино
-http://85.223.221.130:8000/play/a08e
 #EXTINF:-1, VIJU HISTORY
 #EXTGRP:Познавательные
 https://bkm.beetv.kz/btv/live/hls/000005528.m3u8
@@ -32,12 +26,18 @@ http://86.57.178.105:9951/tv3
 #EXTINF:-1, КиноМистика
 #EXTGRP:Кино
 https://autopilot.catcast.tv/content/40783/index.m3u8
+#EXTINF:-1, КиноФантастика
+#EXTGRP:Кино
+https://autopilot.catcast.tv/content/45268/index.m3u8
 #EXTINF:-1, КиноДетектив
 #EXTGRP:Кино
 https://autopilot.catcast.tv/content/41327/index.m3u8
 #EXTINF:-1, Видеокассета
 #EXTGRP:Кино
 https://playlist.nuum.ru/live/4968/tracks-v1a1/mono.m3u8
+#EXTINF:-1, VHS
+#EXTGRP:Кино
+https://autopilot.catcast.tv/mobile.m3u8?channel_id=44051&token=e00674906279e5b30db9d4341e149516&server=v2.catcast.tv
 #EXTINF:-1, ВИДЕОСАЛОН VHS
 #EXTGRP:Кино
 https://autopilot.catcast.tv/mobile.m3u8?channel_id=40391&token=c0e8d4d88b883b27fee4472753e846dd&server=v2.catcast.tv
