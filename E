@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1, Fox
+#EXTGRP:Кино
+http://stream01.vnet.am/Fox/mono.m3u8
+#EXTINF:-1, Fox Life
+#EXTGRP:Кино
+http://85.223.221.130:8000/play/a08e
 #EXTINF:-1, VIJU HISTORY
 #EXTGRP:Познавательные
 https://bkm.beetv.kz/btv/live/hls/000005528.m3u8
