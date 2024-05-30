@@ -5,6 +5,9 @@ http://mfe.cliptv.az/dash/Sony_Sci_Fi_SDifz36n.ism/playlist.mpd
 #EXTINF:-1, Sci-Fi
 #EXTGRP:Кино
 https://ser1.musical.uz/scifi_web/index.m3u8?token=7cc862033574c336847772a38e5cb63f586f5dbb-e381745706cd438770c0d0fc7f0e609e-1717059209-1717048409&remote=212.3.198.177
+#EXTINF:-1, Sci-Fi
+#EXTGRP:Кино
+http://91.205.199.3/scifi/index.m3u8
 #EXTINF:-1, Fox
 #EXTGRP:Кино
 http://stream01.vnet.am/Fox/mono.m3u8
@@ -107,6 +110,9 @@ https://bkm.beetv.kz/btv/live/hls/000008490.m3u8
 #EXTINF:-1, TV XXI
 #EXTGRP:Кино
 https://bkm.beetv.kz/btv/live/hls/000000006.m3u8
+#EXTINF:-1, Black
+#EXTGRP:Кино
+http://mfe01.cliptv.az/dash/Sony_Turbo_SD_PIVqhor567.ism/playlist.mpd
 #EXTINF:-1, Ретро
 #EXTGRP:Кино
 http://109.239.208.82/retro/index.m3u8
@@ -119,12 +125,3 @@ https://bkm.beetv.kz/btv/live/hls/000000091.m3u8
 #EXTINF:-1, EuroNews
 #EXTGRP:Познавательные
 https://bkm.beetv.kz/btv/live/hls/000000025.m3u8
-#EXTINF:-1, ttts
-#EXTGRP:Познавательные
-https://sport7s01.com/lba/MzViOGI3NTgzNjNjYWYwYWE5Y2FmYmIwNGFkYmVjZTE=/g1/nst.m3u8?token=MzViOGI3NTgzNjNjYWYwYWE5Y2FmYmIwNGFkYmVjZTE=&id=N2NkNDgwYTcwYzBmYmJhMWM2ODRmNGUwZjkxYjJmOWQ=&vip=1717037758&dip=ZDg0ZDI4NDA1M2M1NDgzN2FlNjliMjk2YmNmNjkyYzA=&pip=MzAxY2I4MTUwZDk1YWNmODYzZjE1NzhhMWE2NTM1ZGQ=&hip=M2FjMGZiZGU2OWZmZmJkZWY3MzNjYzc0NjUwN2ZiNzc=
-#EXTINF:-1, tmpd
-#EXTGRP:Познавательные
-http://mfe01.cliptv.az/dash/Sony_Turbo_SD_PIVqhor567.ism/playlist.mpd
-#EXTINF:-1, tmp4
-#EXTGRP:Познавательные
-http://mfe01.cliptv.az/dash/Sony_Turbo_SD_PIVqhor567.ism/video/bw700000/154534239781236.mp4
