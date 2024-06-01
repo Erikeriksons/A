@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1, Fox
+#EXTGRP:Кино
+http://stream01.vnet.am/Fox/mono.m3u8
+#EXTINF:-1, Fox Life
+#EXTGRP:Кино
+http://85.223.221.130:8000/play/a08e
 #EXTINF:-1, VIJU HISTORY
 #EXTGRP:Познавательные
 https://bkm.beetv.kz/btv/live/hls/000005528.m3u8
@@ -32,24 +38,6 @@ https://autopilot.catcast.tv/content/45268/index.m3u8
 #EXTINF:-1, КиноДетектив
 #EXTGRP:Кино
 https://autopilot.catcast.tv/content/41327/index.m3u8
-#EXTINF:-1, Видеокассета
-#EXTGRP:Кино
-https://playlist.nuum.ru/live/4968/tracks-v1a1/mono.m3u8
-#EXTINF:-1, VHS
-#EXTGRP:Кино
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=44051&token=e00674906279e5b30db9d4341e149516&server=v2.catcast.tv
-#EXTINF:-1, ВИДЕОСАЛОН VHS
-#EXTGRP:Кино
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=40391&token=c0e8d4d88b883b27fee4472753e846dd&server=v2.catcast.tv
-#EXTINF:-1, Видеосалон
-#EXTGRP:Кино
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=38696&token=79464ea7d10d6d3f850509e350e2e3fd&server=v2.catcast.tv
-#EXTINF:-1, OldSchool VHS
-#EXTGRP:Кино
-https://autopilot.catcast.tv/mobile.m3u8?channel_id=39780&token=8eb425b1fa777cbd205ba6f5614ce275&server=v2.catcast.tv
-#EXTINF:-1, STR TV
-#EXTGRP:Кино
-https://s.catcast.tv/content/40093/index.m3u8?token=7b294d0b50193ec495729ea551a51a54
 #EXTINF:-1, ТНТ4 International
 #EXTGRP:Развлекательные
 https://bkm.beetv.kz/btv/live/hls/000002926.m3u8
