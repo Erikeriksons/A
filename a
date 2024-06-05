@@ -29,9 +29,6 @@ http://86.57.178.105:9951/tv3
 #EXTINF:-1, КиноМистика
 #EXTGRP:Кино
 https://autopilot.catcast.tv/content/40783/index.m3u8
-#EXTINF:-1, КиноФантастика
-#EXTGRP:Кино
-https://autopilot.catcast.tv/content/45268/index.m3u8
 #EXTINF:-1, КиноДетектив
 #EXTGRP:Кино
 https://autopilot.catcast.tv/content/41327/index.m3u8
@@ -67,7 +64,7 @@ https://bkm.beetv.kz/btv/live/hls/000003392.m3u8
 http://188.113.190.15/45/tracks-v1a1/index.m3u8
 #EXTINF:-1, Еврокино
 #EXTGRP:Кино
-http://109.239.208.82:80/eurokino/index.m3u8
+https://bkm.beetv.kz/btv/live/hls/000000152.m3u8
 #EXTINF:-1, Киноман
 #EXTGRP:Кино
 https://bkm.beetv.kz/btv/live/hls/000003871.m3u8
