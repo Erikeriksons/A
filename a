@@ -7,12 +7,6 @@ http://bigline.club:8080/Allgood/m7LkpXsgqbEN/12158
 http://rhsbjv7k.tvclub.xyz/iptv/SC6FQMTAN2X5K7/9232/index.m3u8
 #EXTINF:-1, H2
 #EXTGRP:Познавательные
-http://rhsbjv7k.tvclub.xyz/iptv/CKYQ3VQ8W445TH/1052/index.m3u8
-#EXTINF:-1, H2
-#EXTGRP:Познавательные
-http://rhsbjv7k.tvclub.xyz/iptv/CKYQ3VQ8W445TH/9013/index.m3u8
-#EXTINF:-1, H2
-#EXTGRP:Познавательные
 http://rhsbjv7k.tvclub.xyz/iptv/CKYQ3VQ8W445TH/2033/index.m3u8
 #EXTINF:-1, VIJU HISTORY
 #EXTGRP:Познавательные
@@ -35,6 +29,9 @@ https://bkm.beetv.kz/btv/live/hls/000005621.m3u8
 #EXTINF:-1, ТВ-3
 #EXTGRP:Кино
 http://86.57.178.105:9951/tv3
+#EXTINF:-1, Scream
+#EXTGRP:Кино
+http://46.8.29.51:2020/channel/2c7a264a/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
 #EXTINF:-1, КиноМистика
 #EXTGRP:Кино
 https://autopilot.catcast.tv/content/40783/index.m3u8
