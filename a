@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1, Fox
 #EXTGRP:Кино
-http://bigline.club:8080/Allgood/m7LkpXsgqbEN/12158
+http://rhsbjv7k.tvclub.xyz/iptv/CKYQ3VQ8W445TH/6516/index.m3u8
 #EXTINF:-1, Fox Life
 #EXTGRP:Кино
 http://rhsbjv7k.tvclub.xyz/iptv/SC6FQMTAN2X5K7/9232/index.m3u8
@@ -25,7 +25,7 @@ https://tochkatv-live.cdnvideo.ru/tochkatv_pub/tainatv.stream_aac2.smil/playlist
 https://bkm.beetv.kz/btv/live/hls/000004466.m3u8
 #EXTINF:-1, Trash TV
 #EXTGRP:Кино
-https://bkm.beetv.kz/btv/live/hls/000005621.m3u8
+http://5.153.180.133:8000/play/a05w
 #EXTINF:-1, ТВ-3
 #EXTGRP:Кино
 http://86.57.178.105:9951/tv3
